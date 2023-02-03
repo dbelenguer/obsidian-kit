@@ -1,6 +1,6 @@
 # Obsidian kit
 
-Little Obsidian kit with the tools I use and some suggestions about how to use it.
+Little Obsidian kit, with the tools I use and some suggestions about how to use it, based on daily note taking that can lead to knowledge base building.
 
 This is just a starting point, find whatever works for you!
 
